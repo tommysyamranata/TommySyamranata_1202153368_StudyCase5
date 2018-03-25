@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TOMMY SYAMRANATA_1202153368_StudyCase5</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="PickColor">Pick A Colour</string>
+    <string-array name="pickColor">
+        <item>Merah</item>
+        <item>Biru</item>
+        <item>Hijau</item>
+    </string-array>
+</resources>
